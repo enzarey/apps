@@ -8,7 +8,7 @@
 <meta charset="UTF-8">
 <meta name="description" content="APPS (Against Plastic Pollution Society) is the first social awareness platform that aims to foster support and connections to individuals, local and international communities in promoting complete awareness on plastic pollution and ways of mitigating its harmful effects.">
 <meta name="author" content="">
-<meta name="google-site-verification" content="http://jarks.freevar.com/images/apps.png">
+<meta name="google-site-verification" content="http://enzarey.github.io/apps/images/apps.png">
 <meta name="keywords" content="plastic waste management, reuse, reduce, recycle, plastic management, plastic waste, environment-friendly, JARKS, APPS, Against Plastic Pollution Society, plastic pollution, eco-friendly, spread awareness, volunteer, cleanup">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
